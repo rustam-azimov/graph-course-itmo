@@ -8,6 +8,7 @@
 - [Список задач](https://github.com/rustam-azimov/graph-course-itmo/tree/main/tasks)
 - [Лекционные материалы](https://github.com/rustam-azimov/graph-course-itmo/tree/main/lectures)
 - [Практические материалы](https://github.com/rustam-azimov/graph-course-itmo/tree/main/practice)
+- [Полезные ссылки по GraphBLAS](https://github.com/GraphBLAS/GraphBLAS-Pointers) (статьи, реализации, презентации, книги и прочее).
 
 ## Оценивание домашних работ
 
