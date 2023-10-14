@@ -1,7 +1,7 @@
 ---
-# Machine Learning Course
+# High performance graph analysis course
 
-High performance graph analysis course
+Курс по высокопроизводительному анализу графов.
 
 Полезные ссылки:
 - [Таблица с текущими результатами](https://docs.google.com/spreadsheets/d/11PxeNnaUDxn9uezaG_gNYrwPz5Wk6cC7luPJWP4Xo3E/edit?usp=sharing)
